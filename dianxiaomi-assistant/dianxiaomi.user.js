@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         dianxioami-assistant
-// @namespace    https://www.filterbaby.com
+// @namespace    https://filterbaby.com
 // @version      0.1.3
 // @description  automate dianxiaomi tasks
 // @author       Chriest Yu
